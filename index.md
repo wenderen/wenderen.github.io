@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## BullsEye Pro 1.5b
 
-You can use the [editor on GitHub](https://github.com/wenderen/wenderen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When I was enjoying my gawky early teens, the Sinclair ZX-81 came out - remember that? Have you, in fact, ever heard of that? To say that the computer industry has developed since then is somewhat of an understatement . We’re living in the age when five year old children use computers in the classroom, where people on opposite ends of the planet can send each other information in seconds, where we can sit in our homes and watch history being made as it happens… the information age.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well I dislike that term - in fact I hate it. The curse of the information age is more accurate; the old saying about too much of anything being bad applies so well here. Have you tried finding information on the internet? I don’t mean searching for sites about your favourite singer, or information on a country. Have you tried searching for specific information? On the films it’s really easy - they’re looking for info on Dave Collins, so some nice-but-nerdy guy types in his name, presses enter, and voila! Pictures, photographs, educational records, friends, address, work, hobbies the whole lot pours in. HA! What a load of nonsense! In real life you’d type in Dave Collins, and get this slow list of gardening tips, sex sites, cartoon images, space exploration analysis, Monica analysis and so on… and if we’re going to be accurate and pedantic, most of them will be dead links anyway. In real life the main thing you’d come across would be ‘404 FILE NOT FOUND’.
 
-### Markdown
+If you’re just browsing or surfing, then there are a fair number of good internet search tools out there, some of which we’ve reviewed ourselves too. But if you’re working with the web, then you’re looking for something with a bit more clout. And we found it - and oh my word it’s good! Bulls Eye Pro is aimed squarely at professionals and people looking for a ‘high quality internet experience beyond browsing’. It describes itself as being the first tool in the industry that’s designed to solve the problem of managing the information overload on the internet. And you know what? It’s true. Read on…
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features:  The software allows the user to access information from more than 450 search engines, online databases, news services, mailing list archives and newsgroups. But that’s just the beginning of it. The software is built on the premise that there is far too much information on the internet; if you want to work with it, you need to filter and sort it. This begins with the software using different agents such as News Finder, Business Finder, Software Finder etc. The Rapid Information Discovery Engine then starts to sort the findings, and eliminates dead links and duplicated URLs. But there’s more.
 
-```markdown
-Syntax highlighted code block
+The search itself can be as simple or complex as you require. There’s full use of Boolean operators for those who like this sort of thing; not only the standard AND, OR and NOT, but also NEAR. For instance, you can choose to only list sources with the words white and house within two words of each other. This in itself allows for some very advanced selection, but this is just the tip of the iceberg. You can also include or exclude entries from individual online resources, and there are a range of useful features such as a thesaurus, spell checker, and a ‘sounds like’ helper.
 
-# Header 1
-## Header 2
-### Header 3
+And wait until it comes to the actual results. You can view complete pages, summaries or even just keywords, and you can generate reports in text or HTML format that can be printed, emailed or edited for further use. You can even add your own comments to individual URLs, and mark the ones that you wish to stand out. Of course, you can jump to any displayed link within the software just by clicking on it, and even schedule searches with the ‘tracking feature’. Example - an automatic scan of the financial information pages and groups would mean that you were always up to date without having to find all the info yourself. Add some extremely useful ways of storing past searches - in the ‘history’ folder, in the ‘work in progress’ folder and ‘favorites’, and you’re getting the idea. Powerful stuff.
 
-- Bulleted
-- List
+Problems:  We only came across one actual problem. While the software’s ability to process and refine the data is staggering, we found that this feature can sometimes throw away good information as well. Links that are displayed as invalid might have just timed out - true the software does keep these links in the status view and show why each was rejected, but this can be quite time consuming to check.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenderen/wenderen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Conclusion:  We ourselves have looked at and evaluated a fair number of internet search applications; the problem is that none of them have had the strength and particular features needed by the internet professional. This software addresses that issue and a whole lot more in the process. With the power to dig out the data, the finesse to selectively filter and process it, and the features needed to store and work with the results, this application covers all relevant areas with an accuracy that surely can not be surpassed. An astounding application. Try the 30-day trial and see.
